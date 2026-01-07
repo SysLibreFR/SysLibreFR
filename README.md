@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SysLibreFR
-- 👀 I’m interested in js, nodejs, yaml, low code, no code, php, laravel
-- 🌱 I’m currently learning js, nodejs, yaml, php, laravel
+- 👀 I’m interested in js, nodejs, yaml, low code, no code, php, laravel, python
+- 🌱 I’m currently learning js, nodejs, yaml, php, laravel, python
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me on earth or ....
 
